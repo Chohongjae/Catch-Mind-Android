@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/main"
+        android:icon="@drawable/ic_brush_black_24dp"
+        android:title="메인"/>
+    <item
+        android:id="@+id/make_room"
+        android:icon="@drawable/ic_zoom_in_black_24dp"
+        android:title="방만들기"/>
+    <item
+        android:id="@+id/random_room"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="랜덤입장"/>
+
+</menu>

@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "432861412898",
+    "firebase_url": "https://drawingquiz2.firebaseio.com",
+    "project_id": "drawingquiz2",
+    "storage_bucket": "drawingquiz2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432861412898:android:fe3f21f29602cc85",
+        "android_client_info": {
+          "package_name": "com.example.jhj.drawingquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432861412898-1m06ipaudti8qtffam28sqo4f11qo8f8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jhj.drawingquiz",
+            "certificate_hash": "c9bbf95b98e44606b27030d5218b604c2f54ec20"
+          }
+        },
+        {
+          "client_id": "432861412898-26fn5qkrs93lu5k0dk9kpkat585olpa7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jhj.drawingquiz",
+            "certificate_hash": "8758edf92f3c73e4b08425c7bd9c7a0b3ce4fb09"
+          }
+        },
+        {
+          "client_id": "432861412898-223bp11thrrj69btu4omrq3nmphc4cur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHa720thwPD8r4E7iCc1bBlTY3VQpIhVc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432861412898-223bp11thrrj69btu4omrq3nmphc4cur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
